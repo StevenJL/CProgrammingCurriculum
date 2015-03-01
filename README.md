@@ -14,7 +14,7 @@
  - Compiling and Running C Programs
    - [gcc demo][gcc-demo]
    - [clang demo][clang-demo]
-   - [clang versus gcc][clang-vs-gcc] from clang.llvm.org
+   - <a href="http://clang.llvm.org/comparison.html#gcc" target="_blank">clang versus gcc</a> from clang.llvm.org
  - [The "Main" Function][main]
  - **Exercises:**
    - [Hello World][hello-world]
